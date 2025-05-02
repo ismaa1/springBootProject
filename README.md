@@ -1,3 +1,3 @@
-id:c1220629
-name:hamza abdirahman mohamed
-classcA221
+Id: C1220924
+Name: ismail abdulahi osman
+class: ca225
